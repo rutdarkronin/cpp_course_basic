@@ -5,3 +5,6 @@ My team mostly dealing with videobackend stuff for indusrial and government clas
 My ultimate goal is to become a person that combines both code knowledge and sightings of inner structure of product with strong background in QA processes, making it easier to maintain high-level QA coverage and predict possible failures as well as being able to propose my own solutions in several scenarios.
 That being said, I have Senior QA rank with great share of knowledge about networking (which I have a knack at), hardware stuff and backend services.
 And I'll never tire of learning stuff.
+
+
+And here is nothing new either, so keep walking, there's nothing to watch!
